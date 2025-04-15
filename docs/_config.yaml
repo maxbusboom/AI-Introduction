@@ -22,8 +22,8 @@ minima:
   # default is to use  all of the pages.
 
   nav_pages:
-  - about.md
-  - howto.md
+    - about.md
+    - howto.md
 
   social_links:
     - title: X

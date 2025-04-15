@@ -23,7 +23,11 @@
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	"features": {
 		"ghcr.io/devcontainers/features/desktop-lite:1": {
-			"password" : "code4life"
+			"version": "latest",
+			"noVncVersion": "1.2.0",
+			"password": "code4life",
+			"webPort": "6080",
+			"vncPort": "5901"
 		}
 	},
 
